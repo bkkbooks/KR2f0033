@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0033/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部六
+  hash: sha256:5f60e64555bb05171f88ef93eab5b1c285f44f3268a9880b3cbd1f2ca80456fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0033_WYG_000-1a, image: WYG0430/WYG0430-0259a.png}
+body:
+  text: 周忠愍奏疏詔令奏議𩔖二奏議之屬提要臣等謹案周忠愍奏疏二巻明周起元撰起元字仲先號綿貞海澄人萬厯辛丑進士官至右僉都御史巡撫江南忤璫被害追贈兵部侍郎諡忠愍再諡忠惠事蹟具明史本傳玆刻曰西臺奏疏共十一首為一巻乃擢湖廣道御史巡漕時所上曰撫呉奏疏共十九首為一巻乃巡撫江南時所上其第一巻所載皆起元之𫝊第四巻為蘭言録乃當時名賢題贈詩文第五巻為崇祀録皆厯官處建祠呈文及碑記後又録諸人贈祭詩文及起元遺詩七首蓋出其後裔捜輯𫝊雕隨時増入無復次第起元建言抗疏有闗國計民生初非尋常尚氣節好攻撃者可比其人其言並足垂諸不朽固宜特録而𫝊之者今存其奏疏二巻以遺詩七首附之至起元名光史策初不藉𫝊誌以𫝊今並從刪汰以省繁複焉乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:d86c288d23cec714028864afe4c7cb8b2a61efb0cfbf03c5ad69d2b571577e4e
+metadata:
+  title: 周忠愍奏疏
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:33:15.265016'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2f0033/KR2f0033_000.txt
+hash: sha256:764bd7db5eb79f261213e7bfc364932a287adb343d1e99602040222ec8c9192b
